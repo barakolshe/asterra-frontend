@@ -1,0 +1,1 @@
+{"c":["pages/add-hobbies","webpack"],"r":["pages/add-user"],"m":["./node_modules/next/dist/build/webpack/loaders/next-client-pages-loader.js?absolutePagePath=D%3A%5CProjects%5Casterra-front%5Csrc%5Cpages%5Cadd-user.tsx&page=%2Fadd-user!","./src/hooks/pagesHooks/useAddUserPage.tsx","./src/pages/add-user.tsx"]}
